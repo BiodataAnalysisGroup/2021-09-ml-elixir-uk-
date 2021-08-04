@@ -1,5 +1,8 @@
 
 <div class="sponsor-logos">
+   <a href="https://www.bradford.ac.uk/external/" title="INAB/CERTH">
+    <img style="margin-right:50px" alt="INAB/CERTH" src="static/images/Uni-of-bradford.png" width="100"/>
+  </a>
   <a href="http://inab.certh.gr/" title="INAB/CERTH">
     <img style="margin-right:50px" alt="INAB/CERTH" src="static/images/INAB-logo.png" width="100"/>
   </a>
