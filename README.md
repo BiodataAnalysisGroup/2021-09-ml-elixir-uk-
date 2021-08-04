@@ -12,7 +12,7 @@
 
 **When**: 08-09 September 2021, 09:00 - 16:30 BST
 
-**Where**: Online. Streamed from Greece.
+**Where**: Online.
 
 **Registration**: [here-to-be-updated](link)
 
