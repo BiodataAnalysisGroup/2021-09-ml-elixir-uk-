@@ -14,7 +14,7 @@
 
 **Where**: Online.
 
-**Registration**: [here-to-be-updated](link)
+**Registration**: [here](https://docs.google.com/forms/d/e/1FAIpQLSc7ewN_6M2ttPEt-o1rXYQjwQ5eNPNKDkBeIJYqQn4MKOu1tw/viewform)
 
 
 ### Instructors and helpers
