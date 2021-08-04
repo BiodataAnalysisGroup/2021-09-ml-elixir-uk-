@@ -22,7 +22,6 @@
 **Instructors**:
 
 - **Krzysztof Poterlowicz**, [University of Bradford](https://www.bradford.ac.uk/external/)
-
 - [**Fotis Psomopoulos**](https://biodataanalysisgroup.github.io/), [INAB-CERTH](http://inab.certh.gr), [ELIXIR-GR](https://www.elixir-greece.org/)
 - **Gabriele Schweikert**, University of Dundee
 
